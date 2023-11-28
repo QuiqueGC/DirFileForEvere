@@ -1,0 +1,50 @@
+[
+  {
+    "Name": ".git",
+    "FullName": "C:\\Users\\faust\\Desktop\\RetoPSP\\.git",
+    "Size": 53527,
+    "Date": "2023-11-14T00:06:33.2135348+01:00",
+    "Type": ".git",
+    "IsDirectory": true
+  },
+  {
+    "Name": "out",
+    "FullName": "C:\\Users\\faust\\Desktop\\RetoPSP\\out",
+    "Size": 23388,
+    "Date": "2023-11-14T00:19:04.8650339+01:00",
+    "Type": "",
+    "IsDirectory": true
+  },
+  {
+    "Name": "src",
+    "FullName": "C:\\Users\\faust\\Desktop\\RetoPSP\\src",
+    "Size": 21965,
+    "Date": "2023-11-14T00:06:34.3581234+01:00",
+    "Type": "",
+    "IsDirectory": true
+  },
+  {
+    "Name": ".idea",
+    "FullName": "C:\\Users\\faust\\Desktop\\RetoPSP\\.idea",
+    "Size": 13957,
+    "Date": "2023-11-14T00:06:34.3561392+01:00",
+    "Type": ".idea",
+    "IsDirectory": true
+  },
+  {
+    "Name": "RetoPSP.iml",
+    "FullName": "C:\\Users\\faust\\Desktop\\RetoPSP\\RetoPSP.iml",
+    "Size": 433,
+    "Date": "2023-11-14T00:06:34.3581234+01:00",
+    "Type": ".iml",
+    "IsDirectory": false
+  },
+  {
+    "Name": ".gitignore",
+    "FullName": "C:\\Users\\faust\\Desktop\\RetoPSP\\.gitignore",
+    "Size": 372,
+    "Date": "2023-11-14T00:06:34.3556433+01:00",
+    "Type": ".gitignore",
+    "IsDirectory": false
+  }
+]

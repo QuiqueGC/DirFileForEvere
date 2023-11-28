@@ -1,0 +1,46 @@
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.exe.config
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.exe
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.pdb
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.AssemblyReference.cache
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.Properties.Resources.resources
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.GenerateResource.cache
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.CoreCompileInputs.cache
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.exe
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.pdb
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.FormDirFileManagement.resources
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.FormJSONConsulting.resources
+C:\Users\cep\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.Forms.FormCreateOrUpdate.resources
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.exe.config
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.exe
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.pdb
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.AssemblyReference.cache
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.SuggestedBindingRedirects.cache
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.Forms.FormCreateOrUpdate.resources
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.FormDirFileManagement.resources
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.FormJSONConsulting.resources
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.Properties.Resources.resources
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.GenerateResource.cache
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.exe
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.pdb
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.CopyComplete
+C:\Users\faust\Desktop\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.Forms.FormSavingJSON.resources
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.exe.config
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.exe
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\bin\Debug\DirFileForEver.pdb
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.AssemblyReference.cache
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.SuggestedBindingRedirects.cache
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.Forms.FormCreateOrUpdate.resources
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.FormDirFileManagement.resources
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.FormJSONConsulting.resources
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.Forms.FormSavingJSON.resources
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.Properties.Resources.resources
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.GenerateResource.cache
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.csproj.CopyComplete
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.exe
+C:\Users\faust\Desktop\cosas de trabajos ya no necesarias (en principio)\DirFileForEver\DirFileForEver\obj\Debug\DirFileForEver.pdb

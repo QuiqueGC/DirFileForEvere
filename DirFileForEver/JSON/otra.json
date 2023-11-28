@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "settings.gradle",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\settings.gradle",
+    "Size": 36,
+    "Date": "2023-10-24T21:26:21.1524715+02:00",
+    "Type": ".gradle",
+    "IsDirectory": false
+  },
+  {
+    "Name": "gradle.properties",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\gradle.properties",
+    "Size": 123,
+    "Date": "2023-10-24T21:26:21.1499915+02:00",
+    "Type": ".properties",
+    "IsDirectory": false
+  },
+  {
+    "Name": "local.properties",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\local.properties",
+    "Size": 369,
+    "Date": "2023-10-24T21:26:39.0365433+02:00",
+    "Type": ".properties",
+    "IsDirectory": false
+  },
+  {
+    "Name": ".gitignore",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\.gitignore",
+    "Size": 1576,
+    "Date": "2023-10-24T21:26:21.1326319+02:00",
+    "Type": ".gitignore",
+    "IsDirectory": false
+  },
+  {
+    "Name": "desktop",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\desktop",
+    "Size": 1956,
+    "Date": "2023-10-24T21:26:21.1485035+02:00",
+    "Type": "",
+    "IsDirectory": true
+  },
+  {
+    "Name": "build.gradle",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\build.gradle",
+    "Size": 2013,
+    "Date": "2023-10-24T21:26:21.1465195+02:00",
+    "Type": ".gradle",
+    "IsDirectory": false
+  },
+  {
+    "Name": "gradlew.bat",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\gradlew.bat",
+    "Size": 2838,
+    "Date": "2023-10-24T21:26:21.1519755+02:00",
+    "Type": ".bat",
+    "IsDirectory": false
+  },
+  {
+    "Name": "gradlew",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\gradlew",
+    "Size": 8428,
+    "Date": "2023-10-24T21:26:21.1514796+02:00",
+    "Type": "",
+    "IsDirectory": false
+  },
+  {
+    "Name": ".idea",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\.idea",
+    "Size": 10136,
+    "Date": "2023-10-24T21:26:39.4028236+02:00",
+    "Type": ".idea",
+    "IsDirectory": true
+  },
+  {
+    "Name": "core",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\core",
+    "Size": 40220,
+    "Date": "2023-10-24T21:26:21.1465195+02:00",
+    "Type": "",
+    "IsDirectory": true
+  },
+  {
+    "Name": "gradle",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\gradle",
+    "Size": 60963,
+    "Date": "2023-10-24T21:26:21.1499915+02:00",
+    "Type": "",
+    "IsDirectory": true
+  },
+  {
+    "Name": "assets",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\assets",
+    "Size": 239474,
+    "Date": "2023-10-24T21:26:21.1425518+02:00",
+    "Type": "",
+    "IsDirectory": true
+  },
+  {
+    "Name": ".git",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\.git",
+    "Size": 369052,
+    "Date": "2023-10-24T21:26:19.5504456+02:00",
+    "Type": ".git",
+    "IsDirectory": true
+  },
+  {
+    "Name": ".gradle",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\.gradle",
+    "Size": 464693,
+    "Date": "2023-10-24T21:26:50.8678226+02:00",
+    "Type": ".gradle",
+    "IsDirectory": true
+  },
+  {
+    "Name": "android",
+    "FullName": "C:\\Users\\faust\\Desktop\\BasicConcepts\\android",
+    "Size": 30267200,
+    "Date": "2023-10-24T21:26:21.1326319+02:00",
+    "Type": "",
+    "IsDirectory": true
+  }
+]
